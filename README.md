@@ -2,8 +2,11 @@
 
 ![NextScraper Logo](https://raw.githubusercontent.com/peterrauscher/NextScraper/main/public/img/icon128.png)
 # NextScraper
-Supercharge your data extraction from Next.js, React, or Redux websites effortlessly.
+Jumpstart your scraping project from Next.js, React, or Redux websites with ease.
 </div>
+
+## Why?
+[Read my blog post](https://peterrauscher.com/posts/the-secret-to-efficiently-scraping-react-apps-without-a-headless-browser/) for an explanation of why you might want something like this.
 
 ## Install
 
